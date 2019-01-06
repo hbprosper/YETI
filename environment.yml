@@ -1,0 +1,12 @@
+dependencies:
+  - python=2.7.14
+  - numpy
+  - pandas
+  - matplotlib
+  - pylab
+  - scipy
+  - sympy
+  - pip
+  - pip:
+    - scikit-learn
+
