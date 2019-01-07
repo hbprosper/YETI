@@ -1,5 +1,5 @@
 # Introduction
-The jupyter noteboos in this package depend on a few well-known Python packages:
+The jupyter notebooks in this package depend on a few well-known Python packages:
 
 | __modules__   | __description__     |
 | :---          | :---        |
